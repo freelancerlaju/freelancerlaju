@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Upwork<br>👯 I’m looking to collaborate on Web Design<br>🤝 I’m looking for help with Web Design<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about MERN<br>⚡ Fun fact programming
+🔭 I’m currently working on Upwork<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Front-End Development<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Web Design<br>⚡ Fun fact programming
 
 
 ## 🌐 Socials:
