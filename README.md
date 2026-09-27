@@ -1,21 +1,171 @@
-# 💫 About Me:
-🔭 I’m currently working on: Frontend & Backend Web Development (React, Node.js, Express, MongoDB)<br>👯 I’m looking to collaborate on: Open-source projects & innovative web apps<br>🤝 I’m looking for help with: Advanced backend optimization & deployment<br>🌱 I’m currently learning: Next.js, TypeScript, API development<br>💬 Ask me about: JavaScript, Web Design, Responsive UI/UX<br>⚡ Fun fact: I can spend hours debugging but the solution is always one missing semicolon 😅
+<!-- ========================= HEADER BANNER ========================= -->
+<div align="center dark">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Freelancer%20%7C%20Laju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+</div>
 
+<!-- ========================= TYPING ANIMATION ========================= -->
+<div align="center">
+  <a href="https://github.com/freelancerlaju">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Laju+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Freelancer+%7C+Open+to+Work+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.freelancerlaju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freelancerlaju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/freelancerlaju) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/freelancerlaju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:freelancerlaju@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=freelancerlaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=freelancerlaju&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerlaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ========================= PROFILE VIEWS & BADGES ========================= -->
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=freelancerlaju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://komarev.com/ghpvc/?username=freelancerlaju&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/freelancerlaju?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1c1c1c" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-success?style=for-the-badge&labelColor=1c1c1c" alt="Open to Work"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=freelancerlaju&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ========================= ABOUT ME ========================= -->
+## 🧑‍💻 About Me
+
+```javascript
+const laju = {
+    location: "🌍Rangpur, Bangladesh",
+    role: "Full-Stack Developer & Freelancer",
+    code: ["JavaScript", "TypeScript", "React", "Next", "HTML", "CSS"],
+    askMeAbout: ["web dev", "freelancing", "ui/ux", "tech"],
+    currentFocus: "Building amazing web experiences for clients worldwide",
+    funFact: "I debug with console.log() and I'm not ashamed 😄",
+    motto: "Code. Deliver. Repeat. 🔁"
+};
+```
+
+- 🔭 I'm currently working on **exciting freelance projects**
+- 🌱 I'm currently learning **advanced full-stack technologies**
+- 💼 Available for **freelance work & collaborations**
+- 💬 Ask me about **Web Development, UI/UX & Freelancing**
+- ⚡ Fun fact: **Coffee + Code = Perfect Day ☕**
+
+<br/>
+
+<!-- ========================= TECH STACK ========================= -->
+## 🛠️ Tech Stack & Tools
+
+<div align="left">
+
+### 💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass&theme=dark" alt="Languages" height="35"/>
+
+<br/>
+
+### ⚙️ Frameworks & Styling
+<img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,bootstrap,jquery,graphql&theme=dark" alt="Frameworks" height="35"/>
+
+<br/>
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,redis&theme=dark" alt="Databases" height="35"/>
+
+<br/>
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,vercel,netlify,npm,postman,docker,linux&theme=dark" alt="Tools" height="35"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= GITHUB STATS ========================= -->
+## 📊 GitHub Analytics
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freelancerlaju&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerlaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="Top Languages"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freelancerlaju&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
+## 📈 Contribution Graph
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freelancerlaju&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- ========================= TROPHIES ========================= -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=freelancerlaju&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ========================= SERVICES ========================= -->
+## 💼 Services I Offer
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/48/domain.png" width="40"/><br/>
+      <b>Web Development</b><br/>
+      <sub>Responsive & modern websites</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/48/design.png" width="40"/><br/>
+      <b>UI/UX Design</b><br/>
+      <sub>Clean & user-friendly interfaces</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/48/wordpress.png" width="40"/><br/>
+      <b>WordPress</b><br/>
+      <sub>Custom themes & plugins</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/fluency/48/maintenance.png" width="40"/><br/>
+      <b>Bug Fixing</b><br/>
+      <sub>Debugging & optimization</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========================= CONNECT WITH ME ========================= -->
+## 🤝 Connect With Me
+
+<div align="left">
+
+  <a href="https://github.com/freelancerlaju">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.fiverr.com/yourprofile">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/yourprofile">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ========================= FOOTER ========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <br/>
+  <sub>⭐ From <a href="https://github.com/freelancerlaju">freelancerlaju</a> — Thanks for visiting! Don't forget to star my repos 😊</sub>
+</div>
